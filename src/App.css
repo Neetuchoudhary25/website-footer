@@ -1,1 +1,53 @@
 
+.mainfooter{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 350px;
+    margin-top: 80px;
+    padding: 40px;
+   
+}
+
+.firstfooter>h2 , .firstfooter>h3{
+    color: white;
+    
+}
+
+
+.firstfooter>p{
+    color: rgb(137, 134, 134);
+    font-size: 15px;
+    
+    
+}
+
+.secondfooter>h3 ,.thirdfooter>h3 , .fourthfooter>h3{
+    color: white;
+    border-bottom: 3px solid rgb(38, 130, 38);
+    width: 300px;
+    padding-bottom: 10px;
+    
+    
+}
+.secondfooter>p>a, .thirdfooter>p>a , .fourthfooter>p>a{
+    color:  rgb(137, 134, 134);
+    text-decoration: none;
+    
+}
+
+.firstfooter{
+    text-align: center;
+}
+
+
+
+.copyright{
+    background-color: rgb(44, 42, 42);
+    color: rgb(137, 134, 134);
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+    height: 80px;
+}
+
