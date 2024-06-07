@@ -59,11 +59,7 @@ function App() {
         <div>
           <p>Copyright All Right Reserved 2023,LIET</p>
         </div>
-        {/* <div className='icons'>
-        <a href=""> <i class="fab fa-facebook"></i></a> 
-       <a href=""> <i class="fab fa-twitter"></i></a> 
-       <a href=""> <i class="fab fa-instagram"></i></a> 
-        </div> */}
+        
       </div>
     </>
   )
